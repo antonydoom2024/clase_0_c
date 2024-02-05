@@ -1,0 +1,7 @@
+Hola GIT!
+
+git init => Creamosun repositorio.
+git status => Vemos info del repo.
+git add archivo => Pasar archivo al area de seguimiento 
+git commit -m 'Un mensaje representativo'
+git push origin master => sube los commits al remoto.
